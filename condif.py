@@ -1,7 +1,5 @@
-name = input("Enter your name:")
-if name == "Alex":
-    print("Correct")
-elif nacd me =="John":
-    print("Correct")
-elif name=="Piotr":
-    print("Correct")
+math= int(input("Enter math marks "))
+bio= int(input("Enter bio marks "))
+db= int(input("Enter db marks "))
+total= math + bio + db
+avg= total/3 
